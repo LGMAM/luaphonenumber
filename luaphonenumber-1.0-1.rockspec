@@ -1,13 +1,13 @@
 package = "luaphonenumber"
 version = "1.0-1"
 source = {
-  url = "git://github.com/singlecomm/luaphonenumber",
-  tag = "v1.0-1",
+  url = "git://github.com/LGMAM/luaphonenumber",
+  tag = "mastetr",
 }
 description = {
   summary = "Lua bindings for libphonenumber",
   detailed = "Lua bindings for libphonenumber",
-  homepage = "http://github.com/singlecomm/luaphonenumber",
+  homepage = "http://github.com/LGMAM/luaphonenumber",
   license = "MIT"
 }
 dependencies = {
