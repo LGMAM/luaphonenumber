@@ -2,7 +2,7 @@ package = "luaphonenumber"
 version = "1.0-1"
 source = {
   url = "git://github.com/LGMAM/luaphonenumber",
-  tag = "mastetr",
+  tag = "master",
 }
 description = {
   summary = "Lua bindings for libphonenumber",
